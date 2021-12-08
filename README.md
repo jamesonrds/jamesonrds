@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jameson Silva
-- 👀 I’m interested in become a junior developer
+- 👀 I’m interested in become a developer
 - 🌱 I’m currently learning Java and Swift
 - 💞️ I’m looking to collaborate on your project
 - 📫 jameson.rds@gmail.com
